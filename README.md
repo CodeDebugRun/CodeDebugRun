@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QAErhan aka @CodeDebugRun
-- 👀 I’m interested in Java, Selenium, Cucumber, BDD, Appium
+- 👀 I’m interested in Java,Javascript, Selenium, Cucumber, BDD, Appium
 - 🌱 I’m currently learning Appium
 - 💞️ I’m looking to collaborate on test automation
 - 📫 How to reach me linkedin.com/in/erhan-acikgoz
