@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java,Javascript, Selenium, Cucumber, BDD, Appium
 - 🌱 I’m currently learning Appium
 - 💞️ I’m looking to collaborate on test automation
-- 📫 How to reach me linkedin.com/in/erhan-acikgoz
+- 📫 How to reach me : linkedin.com/in/erhan-acikgoz
 
 <!---
 CodeDebugRun/CodeDebugRun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
