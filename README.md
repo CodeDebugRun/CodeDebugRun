@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QAErhan aka @CodeDebugRun
-- 👀 I’m interested in Java,Javascript, Selenium, Cucumber, BDD, Appium, Cypress
-- 🌱 I’m currently learning Appium and Cypress
+- 👀 I’m experienced in Java,Javascript, Selenium, Cucumber, BDD, Cypress
+- 🌱 I’m currently learning Appium and Playwright
 - 💞️ I’m looking to collaborate on test automation
 - 📫 How to reach me : linkedin.com/in/erhan-acikgoz
 
