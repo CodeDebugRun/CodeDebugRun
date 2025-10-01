@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QAErhan aka @CodeDebugRun
-- 👀 I’m experienced in Java,Javascript, Selenium, Cucumber, BDD, Cypress
-- 🌱 I’m currently learning n8n and Playwright
-- 💞️ I’m looking to collaborate on test automation
+- 👀 I’m experienced in Java and Javascript
+- 🌱 I’m currently learning n8n and Nextjs, Playwright
+- 💞️ I’m looking to collaborate on AI Agents and Automation, App. development 
 - 📫 How to reach me : linkedin.com/in/erhan-acikgoz
 
 <!---
