@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erhan aka @CodeDebugRun
 - 👀 I’m experienced in Java and Javascript
-- 🌱 I’m currently learning n8n and Nextjs, Playwright
+- 🌱 I’m currently learning n8n and SAP ABAP
 - 💞️ I’m looking to collaborate on AI Agents and Automation, App. development 
 - 📫 How to reach me : linkedin.com/in/erhan-acikgoz
 
